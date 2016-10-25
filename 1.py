@@ -15,6 +15,7 @@ def main():
     a = 'TTCN-LLV+LSV-SSR-SIM'
     #a.replace(',', '+')
     print '1------------------'
+    print '2------------------'
     print a.replace(',', '+')
         
 if __name__ == "__main__":
